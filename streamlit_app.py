@@ -130,7 +130,7 @@ for i in range(20):
     st.sidebar.write("")
 st.sidebar.write("Autor: Luiz Fernando Costa dos Santos, Graduando em Ciência de Dados e Inteligência Artificial (UFPB)")
 st.sidebar.write("Fonte: Prefeitura Municipal de Mamanguape")
-
+st.sidebar.write("Última Atualização: 06/03/2021")
 
 st.header("Casos Confirmados Acumulados")
 st.plotly_chart(fig)
